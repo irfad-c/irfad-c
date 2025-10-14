@@ -1,17 +1,17 @@
-# Hi, I'm Irfad 👋
+# Hi, I'm Irfad C 👋
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=irfad-c)
 
 ## About Me
-I'm a beginner MERN stack developer learning full-stack web development.  
+I'm a MERN stack developer and former production planning engineer.  
 I enjoy building projects, solving problems, and improving my coding skills.
 
 ---
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React
+- **Frontend:** HTML, CSS, JavaScript, React ,Bootstrap
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
+- **Database:** MongoDB , MySQL
 - **Other:** Git, GitHub, REST APIs, Bootstrap
 
 ---
@@ -29,8 +29,6 @@ A simple e-commerce project with React and Bootstrap:
 - View product details
 - Add to cart functionality
 
-*(Add more projects here as you build them)*
-
 ---
 
 ## GitHub Stats
@@ -40,4 +38,5 @@ A simple e-commerce project with React and Bootstrap:
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/irfad-c/)
-- [Email](mailto:your-email@example.com)
+- [Email](mailto:irfadc500@gmail.com)
+
