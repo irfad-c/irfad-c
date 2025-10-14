@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Irfad C👋
 
-<!--
-**irfad-c/irfad-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a beginner MERN stack developer learning full-stack web development.  
+I enjoy building projects, solving problems, and improving my coding skills.
 
-Here are some ideas to get you started:
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express
+- **Database:** MongoDB
+- **Other:** Git, GitHub, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Spending Tracker](https://github.com/irfad-c/spending-tracker) - MERN stack app to manage income and expenses.
+- [React E-commerce App](https://github.com/irfad-c/react-ecommerce-app) - Simple e-commerce project with React and Bootstrap.
+
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/irfad-c/)  
+- [Email](mailto:your-email@example.com)
