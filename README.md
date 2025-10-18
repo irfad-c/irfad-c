@@ -32,7 +32,13 @@ A simple e-commerce project with React and Bootstrap:
 ---
 
 ## GitHub Stats
-![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=radical)
+![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=dark)
+
+### 🧠 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfad-c&layout=compact&theme=radical)
+
+### 📈 Activity Graph
+![Irfad's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=irfad-c&theme=react-dark)
 
 ---
 
