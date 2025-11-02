@@ -23,13 +23,7 @@ MERN stack app to manage income and expenses. Users can:
 - Add transactions for each category
 - View total income, expenses, and balance
 
-### 2. [React E-commerce App](https://github.com/irfad-c/react-ecommerce-app)
-A simple e-commerce project with React and Bootstrap:
-- Browse products by category
-- View product details
-- Add to cart functionality
 
----
 
 ## GitHub Stats
 ![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=dark)
