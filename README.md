@@ -25,11 +25,12 @@ MERN stack app to manage income and expenses. Users can:
 
 
 
-## GitHub Stats
+### 📊 GitHub Profile Stats
 ![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=dark)
 
 ### 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfad-c&layout=compact&theme=radical)
+
 
 
 
