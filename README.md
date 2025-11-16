@@ -9,21 +9,14 @@ I enjoy building projects, solving problems, and improving my coding skills.
 ---
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React ,Bootstrap
-- **Backend:** Node.js, Express
+- **Frontend:** HTML, CSS, JavaScript, React.js ,Bootstrap, Tailwind CSS, TypeScript
+- **Backend:** Node.js, Express.js
 - **Database:** MongoDB , MySQL
-- **Other:** Git, GitHub, REST APIs, Bootstrap
-
+- **Version Control:** Git, GitHub
+- **Deployment:** Render, Netlify
+- **Package Managers:** NPM
+- **API Testing Tools:** Postman, Thunder Client (VS Code)
 ---
-
-## Projects
-### 1. [Spending Tracker](https://github.com/irfad-c/SpendingTracker)
-MERN stack app to manage income and expenses. Users can:
-- Add or delete income/expense categories
-- Add transactions for each category
-- View total income, expenses, and balance
-
-
 
 ### 📊 GitHub Profile Stats
 ![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=dark)
