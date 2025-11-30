@@ -9,17 +9,17 @@ I enjoy building projects, solving problems, and improving my coding skills.
 ---
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React.js ,Bootstrap, Tailwind CSS, TypeScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB , MySQL
-- **Version Control:** Git, GitHub
-- **Deployment:** Render, Netlify
-- **Package Managers:** NPM
-- **API Testing Tools:** Postman, Thunder Client (VS Code)
+- **Frontend:** HTML, CSS, JavaScript, React.js, React Router, Bootstrap, Tailwind CSS, TypeScript, Context API
+- **Backend:** Node.js, Express.js, Authentication, Authorization, Rest API development
+- **Database:** MongoDB , MySQL, Mongoose, Schema Design, CRUD Operations
+- **Tools and development:** Git, GitHub ,Render, Netlify, NPM, Postman, Thunder Client, Environment variables
+- **Soft Skills:** Good communication, Team collaboration, Ability to learn quickly, Problem-solving
 ---
 
 ### 📊 GitHub Profile Stats
-![Irfad's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfad-c&show_icons=true&theme=dark)
+![Irfad's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=irfad-c&theme=dark)
+
+
 
 ### 🧠 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfad-c&layout=compact&theme=radical)
