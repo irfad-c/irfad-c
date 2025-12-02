@@ -16,8 +16,7 @@ I enjoy building projects, solving problems, and improving my coding skills.
 - **Soft Skills:** Good communication, Team collaboration, Ability to learn quickly, Problem-solving
 ---
 
-### 📊 GitHub Profile Stats
-![Irfad's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=irfad-c&theme=dark)
+
 
 
 
