@@ -1,33 +1,14 @@
 # Hi, I'm Irfad C 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=irfad-c)
-
 ## About Me
 I'm a MERN stack developer and former production planning engineer.  
 I enjoy building projects, solving problems, and improving my coding skills.
-
----
-
 ## Skills
 - **Frontend:** HTML, CSS, JavaScript, React.js, React Router, Bootstrap, Tailwind CSS, TypeScript, Context API
 - **Backend:** Node.js, Express.js, Authentication, Authorization, Rest API development
 - **Database:** MongoDB , MySQL, Mongoose, Schema Design, CRUD Operations
 - **Tools and development:** Git, GitHub ,Render, Netlify, NPM, Postman, Thunder Client, Environment variables
 - **Soft Skills:** Good communication, Team collaboration, Ability to learn quickly, Problem-solving
----
-
-
-
-
-
-### 🧠 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=irfad-c&layout=compact&theme=radical)
-
-
-
-
----
-
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/irfad-c/)
 - [Email](mailto:irfadc500@gmail.com)
