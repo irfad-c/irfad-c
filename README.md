@@ -13,13 +13,6 @@ I enjoy building projects, solving problems, and improving my coding skills.
 - [LinkedIn](https://www.linkedin.com/in/irfad-c/)
 - [Email](mailto:irfadc500@gmail.com)
 
-- ## 🧠 LeetCode | DSA Progress
 
-I regularly practice Data Structures & Algorithms on LeetCode to improve problem-solving and optimize my coding approach.
-
-**LeetCode Profile:**  
-https://leetcode.com/IrfadC/
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/IrfadC?theme=dark&font=Montserrat&ext=heatmap)](https://leetcode.com/IrfadC/)
 
 
